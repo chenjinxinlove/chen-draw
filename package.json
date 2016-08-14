@@ -1,0 +1,19 @@
+{
+  "name": "chen-draw",
+  "version": "1.0.0",
+  "description": "draw",
+  "main": "draw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjinxinlove/chen-draw.git"
+  },
+  "author": "chenjinxinlove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenjinxinlove/chen-draw/issues"
+  },
+  "homepage": "https://github.com/chenjinxinlove/chen-draw#readme"
+}
